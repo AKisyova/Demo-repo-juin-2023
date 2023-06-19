@@ -1,3 +1,3 @@
-# Demo-repo-juin-2023
+# QA Fundamentals all the files!
 This is my first repository!
 Congrats!
